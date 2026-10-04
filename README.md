@@ -21,3 +21,6 @@ Part of the **Zion Tech Group App Network** (Batch 69 — Healthcare & Life Scie
 
 ## License
 MIT — © 2026 Zion Tech Group
+
+## Part of the Zion App Network
+🏥 Suite: [Healthcare & Life Sciences AI Suite](https://github.com/Zion-support/zion-network/blob/main/spotlights/healthcare-life-sciences-v2-suite.md) · 🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · 📣 [Homepage Spotlight](https://github.com/Zion-support/zion-support.github.io/blob/main/APP_NETWORK_SPOTLIGHT_OCT4_HEALTHCARE.md) · 🔎 [Free AI Discovery](https://ziontechgroup.com/app-network-discovery.html) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
